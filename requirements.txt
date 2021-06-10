@@ -1,4 +1,6 @@
 # generated from manifests external_dependencies
 invoice2data
+ovh
 PyPDF2
 pyyaml
+requests
